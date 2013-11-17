@@ -1,0 +1,22 @@
+{
+  "name": "gapi-unofficial",
+  "version": "0.0.0",
+  "authors": [
+    "ragingwind <ragingwind@gmail.com>"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "description": "(Unofficial) Google APIs Client Library for JavaScript",
+  "main": "client.js",
+  "keywords": [
+    "gapi",
+    "google"
+  ],
+  "homepage": "https://code.google.com/p/google-api-javascript-client/"
+}
